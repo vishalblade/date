@@ -45,7 +45,7 @@ function checkTimeAndPrint() {
         { monthDay: '11-18', hours: 6, minutes: 0, seconds: 0, message: `Hey, today is Bindu di${s} birthday...` }, // Bunu di
         //0thers
         { monthDay: '1-1', hours: 6, minutes: 0, seconds: 0, message: `Happy new year Sir...` }, // New year
-        { monthDay: '8-30', hours: 16, minutes: 00, seconds: 0, message: `Testing${s} !!!` } // Testing
+        { monthDay: '9-14', hours: 12, minutes: 50, seconds: 0, message: `Testing${s} !!!` } // Testing
     ];
 
     // Check if the current time matches any target time
